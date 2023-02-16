@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+###信息管理
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+可以直接使用postman来测试api,数据为json格式
+
