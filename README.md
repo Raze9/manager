@@ -14,7 +14,8 @@ npm run serve
 ```
 npm run build
 ```
-###信息管理
 
+##信息管理
+```
 可以直接使用postman来测试api,数据为json格式
 
