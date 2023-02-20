@@ -17,5 +17,5 @@ npm run build
 
 ### 后台管理系统
 ```
-可以直接使用postman来测试api,数据为json格式
+使用postman来测试api,前端已完成port(3000)
 
