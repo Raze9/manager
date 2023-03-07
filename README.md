@@ -17,5 +17,5 @@ npm run build
 
 ### 后台管理系统
 ```
-使用postman来测试api,前端已完成port(3000)
+使用postman来测试api,前端已完成
 
